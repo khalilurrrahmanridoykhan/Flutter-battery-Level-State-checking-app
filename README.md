@@ -1,6 +1,6 @@
 # battery_status_app
 
-A new Flutter project.
+This Project Show The Simple Mobile(Android & IOS) Battery Status And Battery State.
 
 ## Getting Started
 
