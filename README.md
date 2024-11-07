@@ -1,4 +1,4 @@
-# battery_status_app
+# battery status app
 
 This Project Show The Simple Mobile(Android & IOS) Battery Status And Battery State.
 
